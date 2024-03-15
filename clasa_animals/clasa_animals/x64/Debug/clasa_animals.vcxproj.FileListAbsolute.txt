@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\clasa_animals\clasa_animals\x64\Debug\clasa_animals.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\clasa_animals\clasa_animals\x64\Debug\clasa_animals.vcxproj.AssemblyReference.cache
