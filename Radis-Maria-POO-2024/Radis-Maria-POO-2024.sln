@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Radis-Maria-POO-2024", "Radis-Maria-POO-2024\Radis-Maria-POO-2024.vcxproj", "{59FE3FD2-0136-43B9-9698-DB7119CC886F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FE3FD2-0136-43B9-9698-DB7119CC886F}.Debug|x64.ActiveCfg = Debug|x64
+		{59FE3FD2-0136-43B9-9698-DB7119CC886F}.Debug|x64.Build.0 = Debug|x64
+		{59FE3FD2-0136-43B9-9698-DB7119CC886F}.Debug|x86.ActiveCfg = Debug|Win32
+		{59FE3FD2-0136-43B9-9698-DB7119CC886F}.Debug|x86.Build.0 = Debug|Win32
+		{59FE3FD2-0136-43B9-9698-DB7119CC886F}.Release|x64.ActiveCfg = Release|x64
+		{59FE3FD2-0136-43B9-9698-DB7119CC886F}.Release|x64.Build.0 = Release|x64
+		{59FE3FD2-0136-43B9-9698-DB7119CC886F}.Release|x86.ActiveCfg = Release|Win32
+		{59FE3FD2-0136-43B9-9698-DB7119CC886F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B249DAC7-E986-48FB-BBFB-D6206800B31B}
+	EndGlobalSection
+EndGlobal
