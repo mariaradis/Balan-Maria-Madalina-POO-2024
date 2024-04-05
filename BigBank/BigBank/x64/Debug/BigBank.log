@@ -1,0 +1,35 @@
+﻿  BankAccount.cpp
+C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(4,11): warning C4570: 'BankAccount': is not explicitly declared as abstract but has abstract functions
+  (compiling source file '/BankAccount.cpp')
+  C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(4,11):
+  'bool BankAccount::CanDebit(double)': is abstract
+  C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(11,16):
+  see declaration of 'BankAccount::CanDebit'
+  
+  BigBank.cpp
+C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(4,11): warning C4570: 'BankAccount': is not explicitly declared as abstract but has abstract functions
+  (compiling source file '/BigBank.cpp')
+  C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(4,11):
+  'bool BankAccount::CanDebit(double)': is abstract
+  C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(11,16):
+  see declaration of 'BankAccount::CanDebit'
+  
+  CurrentAccount.cpp
+C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(4,11): warning C4570: 'BankAccount': is not explicitly declared as abstract but has abstract functions
+  (compiling source file '/CurrentAccount.cpp')
+  C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(4,11):
+  'bool BankAccount::CanDebit(double)': is abstract
+  C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(11,16):
+  see declaration of 'BankAccount::CanDebit'
+  
+  SavingsAccount.cpp
+C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(4,11): warning C4570: 'BankAccount': is not explicitly declared as abstract but has abstract functions
+  (compiling source file '/SavingsAccount.cpp')
+  C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(4,11):
+  'bool BankAccount::CanDebit(double)': is abstract
+  C:\Users\Maria\source\repos\BigBank\BigBank\BankAccount.h(11,16):
+  see declaration of 'BankAccount::CanDebit'
+  
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  BigBank.vcxproj -> C:\Users\Maria\source\repos\BigBank\x64\Debug\BigBank.exe
