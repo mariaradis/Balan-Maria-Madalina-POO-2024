@@ -71,7 +71,6 @@ void InregistreazaMasini(int numarMasini, ColectieMasini^ colectieMasini) {
 void SorteazaDupaPret(List<Masina^>^ masini) {
     for (int i = 0; i < masini->Count - 1; ++i) {
         for (int j = 0; j < masini->Count - i - 1; ++j) {
-            // Accesam valorile de tip Double din pointerii System::Double^ folosind Convert::ToDouble
             double pret1 = Convert::ToDouble(masini[j]->GetPret());
             double pret2 = Convert::ToDouble(masini[j + 1]->GetPret());
             if (pret1 > pret2) {
